@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\.pptx]
+@="PowerPoint.Show.12"
+"ContentType"="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+"PerceivedType"="document"
+[HKEY_CLASSES_ROOT\.pptx\PersistentHandler]
+@="{D3B41FA1-01E3-49AF-AA25-1D0D824275AE}"
+[HKEY_CLASSES_ROOT\.pptx\ShellEx]
+[HKEY_CLASSES_ROOT\.pptx\ShellEx\PropertyHandler]
+@="{993BE281-6695-4BA5-8A2A-7AACBFAAB69E}"
+[HKEY_CLASSES_ROOT\.pptx\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
+@="{84F66100-FF7C-4fb4-B0C0-02CD7FB668FE}"
+[HKEY_CLASSES_ROOT\.pptx\ShellEx\{BB2E617C-0920-11d1-9A0B-00C04FC2D6C1}]
+@="{C41662BB-1FA0-4CE0-8DC5-9B7F8279FF97}"
+[HKEY_CLASSES_ROOT\.pptx\PowerPoint.Show.12]
+[HKEY_CLASSES_ROOT\.pptx\PowerPoint.Show.12\ShellNew]
+"NullFile"=""
